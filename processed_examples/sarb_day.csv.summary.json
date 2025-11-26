@@ -1,0 +1,20 @@
+{
+  "source_bucket": "josue-raw-data",
+  "file_name": "sarb_day.csv",
+  "size_bytes": 363105,
+  "row_count": 7746,
+  "header_columns": [
+    "Date",
+    "KBP1424D",
+    "KBP1425D",
+    "KBP1437D",
+    "KBP1438D",
+    "KBP1440D",
+    "KBP1456D",
+    "KBP1457D",
+    "KBP1481D",
+    "KBP1482D",
+    "KBP1484D"
+  ],
+  "inferred_frequency": "daily"
+}

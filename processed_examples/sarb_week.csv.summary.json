@@ -1,0 +1,29 @@
+{
+  "source_bucket": "josue-raw-data",
+  "file_name": "sarb_week.csv",
+  "size_bytes": 170286,
+  "row_count": 2176,
+  "header_columns": [
+    "Date",
+    "KBP1405W",
+    "KBP1407W",
+    "KBP1409W",
+    "KBP1411W",
+    "KBP1412W",
+    "KBP1413W",
+    "KBP1444W",
+    "KBP1446W",
+    "KBP1447W",
+    "KBP1450W",
+    "KBP1451W",
+    "KBP1460W",
+    "KBP1461W",
+    "KBP1462W",
+    "KBP1463W",
+    "KBP1464W",
+    "KBP1465W",
+    "KBP1466W",
+    "KBP1467W"
+  ],
+  "inferred_frequency": "weekly"
+}
